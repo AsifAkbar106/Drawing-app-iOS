@@ -65,7 +65,7 @@ This project is open-source and free to use for any purpose.
 
 ## Author
 
-[Your Name]
+[Asif Akbar Razon]
 
 Feel free to contribute or open issues to suggest improvements!
 
